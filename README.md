@@ -57,7 +57,6 @@ Clear to reset selections and bill.
 Hotel_Management_System/
 │
 ├── hotel management.py   # Main application script
-├── screenshots/          # App screenshots
 └── README.md              # Documentation
 
 📜 License
