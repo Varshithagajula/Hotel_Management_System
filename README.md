@@ -55,9 +55,8 @@ Clear to reset selections and bill.
 
 📂 Project Structure
 Hotel_Management_System/
-│
 ├── hotel management.py   # Main application script
-└── README.md              # Documentation
+├── README.md              # Documentation
 
 📜 License
 
